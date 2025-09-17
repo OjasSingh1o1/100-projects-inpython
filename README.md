@@ -5,5 +5,6 @@ This repository contains my personal journey and all the projects I'll be comple
 
 ## My Progress
 
-* [ ] Day 2: Tip Calculator
+* [ ] Day 1: Tip Calculator
+* [ ] Day 2: Treasure Island
 * ...
